@@ -1,0 +1,6 @@
+rgname                 = "devops1983"
+service_principal_name = "devops1983-spn"
+keyvault_name          = "devops1983-kv"
+SUB_ID = ""
+cluster_name = "devops1983-cluster"
+node_pool_name = "devnp"
